@@ -1,7 +1,7 @@
 # Opa, tranquilo? Seja bem-vindo(a).
 
 - Futuro desenvolvedor full-stack.
-- Atualmente aprendendo progamação web no [IOS](https://www.instagram.com/iosoficial/).
+- Atualmente aprendendo programação web no [IOS](https://www.instagram.com/iosoficial/).
 - Procuro evoluir a cada dia.
 
 
