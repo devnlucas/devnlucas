@@ -1,7 +1,7 @@
 # Opa, tranquilo? Me chamo Lucas
 
-Futuro desenvolvedor em desenvolvimento.
-Atualmente aprendendo progamação web no [IOS](https://www.instagram.com/iosoficial/).
+- Futuro desenvolvedor em desenvolvimento.
+- Atualmente aprendendo progamação web no [IOS](https://www.instagram.com/iosoficial/).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnlucas&show_icons=true&theme=rose)
