@@ -1,4 +1,4 @@
-# Opa, tranquilo? Me chamo Lucas
+# Opa, tranquilo? Me chamo Lucas.
 
 - Futuro desenvolvedor em desenvolvimento.
 - Atualmente aprendendo progamação web no [IOS](https://www.instagram.com/iosoficial/).
